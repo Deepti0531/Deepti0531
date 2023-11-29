@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Deepti Kademani</h1>
 <h3 align="left">Hi!, I'm a passionate programmer and learner from India.</h3>
 
-- 🏫 I’m currently studying in [Vellore Institute of Technology, Chennai Campus](Vellore Institute of Technology, Chennai Campus)
+- 🏫 I’m currently studying in Vellore Institute of Technology, Chennai Campus
 
 - 📫 How to reach me [deeptik0531@gmail.com](deeptik0531@gmail.com)
 
