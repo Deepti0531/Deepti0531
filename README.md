@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Science and Machine Learning.**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1OdJknRafiF75b4adaetuMGssddX2DXXg/view?usp=sharing](https://drive.google.com/file/d/1OdJknRafiF75b4adaetuMGssddX2DXXg/view?usp=sharing)
+- 📄 Know about my experiences([https://drive.google.com/file/d/1OdJknRafiF75b4adaetuMGssddX2DXXg/view?usp=sharing](https://drive.google.com/file/d/1nppPjGXRrIX9pmV5cU-yx-bgyGdGiFg_/view?usp=drive_link))
 
 
 <p align="left">
