@@ -1,13 +1,13 @@
 <h1 align="left">Hi 👋, I'm Deepti Kademani</h1>
 <h3 align="left">Hi!, I'm a passionate programmer and learner from India.</h3>
 
-- 🏫 I’m currently studying in Vellore Institute of Technology, Chennai Campus
+- 🏫 Studied at Vellore Institute of Technology, Chennai Campus
 
 - 📫 How to reach me [deeptik0531@gmail.com](deeptik0531@gmail.com)
 
-- 📖 I’m currently pursuing my BTech. in **Computer Science with specialization in Cyber Physical Systems.**
+- 📖 Persued my BTech. in **Computer Science with specialization in Cyber Physical Systems.**
 
-- 🌱 I’m currently learning **Data Science and Machine Learning.**
+- 🌱 I’m currently learning **Java Fullstack**
 
 - 📄 Know about my experiences([https://drive.google.com/file/d/1OdJknRafiF75b4adaetuMGssddX2DXXg/view?usp=sharing](https://drive.google.com/file/d/1nppPjGXRrIX9pmV5cU-yx-bgyGdGiFg_/view?usp=drive_link))
 
